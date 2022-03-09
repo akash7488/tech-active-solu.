@@ -1,0 +1,736 @@
+*{
+
+    top: 0px;
+    left: 0px;
+    /* width: 1440px;
+    height: 8318px; */
+    background: #001530 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.tech{
+    top: 33px;
+    margin-left: 106px;
+    width: 99px;
+    height: 23px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+ul li a{
+    text-decoration: none;
+}
+.home{
+    padding: 10px 0px;
+    margin-left: 225px;
+    width: 52px;
+    height: 24px;
+    text-align: left;
+    font: normal normal 600 18px/24px Open Sans;
+    letter-spacing: 0.09px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.nav-ul{
+    display: flex;
+}
+.about{
+   padding: 10px 0px;
+    margin-left: 50px;
+    width: 51px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 18px/24px Open Sans;
+    letter-spacing: 0.09px;
+    color: #FFFFFF99;
+    opacity: 1;
+}
+.nav1{
+    display: flex;
+    margin: 30px 0px;
+}
+.service{
+   padding: 10px 0px;
+    margin-left: 50px;
+    width: 60px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 18px/24px Open Sans;
+    letter-spacing: 0.09px;
+    color: #FFFFFF99;
+    opacity: 1;
+}
+.pages{
+    padding: 10px 0px;
+    margin-left:50px;
+    width: 50px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 18px/24px Open Sans;
+    letter-spacing: 0.09px;
+    color: #FFFFFF99;
+    opacity: 1;
+}
+.faq{
+    padding: 10px 0px;
+    margin-left:50px;
+    width: 35px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 18px/24px Open Sans;
+    letter-spacing: 0.09px;
+    color: #FFFFFF99;
+    opacity: 1;
+}
+.contact{
+    padding: 10px 0px;
+    margin-left:50px;
+    width: 35px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 18px/24px Open Sans;
+    letter-spacing: 0.09px;
+    color: #FFFFFF99;
+    opacity: 1;
+}
+.nav2{
+    display: flex;
+
+}
+.get-quote{
+   
+margin-left: 229px;
+width: 129px;
+height: 36px;
+color: #FFFFFF;
+background: #3EAFFF 0% 0% no-repeat padding-box;
+box-shadow: 15px 15px 60px #396DF18F;
+border-radius: 5px;
+opacity: 1;
+}
+
+/********************* nav end *******************/
+
+.cont-1 {
+    margin-top: -30px;
+    display: flex;
+    position: relative;
+}
+
+.we {
+    padding-top: 62px;
+}
+
+.we-provide {
+    /* top: 62px; */
+    left: 100px;
+    width: 567px;
+    height: 279px;
+    text-align: left;
+    font: normal normal bold 68px/88px Titillium Web;
+    letter-spacing: 0.34px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.lorem-ipsm {
+    top: 508px;
+    left: 100px;
+    width: 475px;
+    height: 58px;
+    text-align: left;
+    font: normal normal normal 18px/34px Open Sans;
+    letter-spacing: 0.09px;
+    color: #FFFFFF99;
+    opacity: 1;
+}
+
+
+.first-btn {
+    margin-top: 50px;
+    left: 100px;
+    width: 165px;
+    height: 60px;
+    background: #3EAFFF 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    opacity: 1;
+    color: white;
+}
+
+.second-btn {
+    margin-top: 50px;
+    left: 285px;
+    width: 165px;
+    height: 60px;
+    border: 2px solid #3EAFFF;
+    border-radius: 5px;
+    opacity: 1;
+    color: #3EAFFF;
+}
+
+.humaaans-sitting-8 {
+    width: 465px;
+    height: 530px;
+    background: transparent;
+    opacity: 1;
+    padding-top: 25px;
+}
+
+.rect {
+    margin-top: 100px;
+    width: 505px;
+    height: 218px;
+    background: #001C3F 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    opacity: 1;
+    display: flex;
+}
+
+.rectangle {
+
+    cursor: pointer;
+    /* background: transparent url('/img/Overlay.svg') 0% 0% no-repeat padding-box; */
+    left: 128px;
+    width: 161px;
+    height: 161px;
+    margin: 29px;
+}
+
+.our-work {
+    margin-top: 45px;
+    margin-left: 50px;
+    width: 198px;
+    height: 74px;
+    text-align: left;
+    font: normal normal bold 24px/38px Titillium Web;
+    letter-spacing: 0.12px;
+    background: #001C3F 0% 0% no-repeat padding-box;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.polygon {
+    margin-top: 21px;
+    margin-left: 50px;
+    width: 32px;
+    height: 37px;
+    transform: matrix(0, 1, -1, 0, 0, 0);
+    background: transparent url("/img/Polygon\ 1.svg") 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.watch {
+    margin-top: 22px;
+    margin-left: 20px;
+    background: #001C3F 0% 0% no-repeat padding-box;
+
+    left: 392px;
+    width: 97px;
+    height: 22px;
+    text-align: left;
+    font: normal normal 600 16px/38px Open Sans;
+    letter-spacing: 0.08px;
+    color: #3EAFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.our {
+    background: #001C3F 0% 0% no-repeat padding-box;
+}
+
+.our div {
+    display: flex;
+    background: #001C3F 0% 0% no-repeat padding-box;
+}
+
+.k100 {
+    margin-top: 135px;
+    margin-left: 208px;
+    width: 130px;
+    height: 58px;
+    text-align: left;
+    font: normal normal bold 38px/38px Titillium Web;
+    letter-spacing: 0.19px;
+    color: #3EAFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.k500 {
+
+    margin-top: 135px;
+    margin-left: 100px;
+    width: 107px;
+    height: 58px;
+
+    text-align: left;
+    font: normal normal bold 38px/38px Titillium Web;
+    letter-spacing: 0.19px;
+    color: #3EAFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.k98 {
+
+    margin-top: 135px;
+    margin-left: 100px;
+    width: 64px;
+    height: 58px;
+    text-align: left;
+    font: normal normal bold 38px/38px Titillium Web;
+    letter-spacing: 0.19px;
+    color: #3EAFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.subscriber {
+    margin-top: 10px;
+    margin-left: 208px;
+    width: 127px;
+    height: 33px;
+    text-align: left;
+    font: normal normal normal 24px/34px Open Sans;
+    letter-spacing: 0.12px;
+    color: #FFFFFF99;
+    opacity: 1;
+}
+
+.client {
+    margin-top: 10px;
+    margin-left: 100px;
+    width: 65px;
+    height: 33px;
+    text-align: left;
+    font: normal normal normal 24px/34px Open Sans;
+    letter-spacing: 0.12px;
+    color: #FFFFFF99;
+    opacity: 1;
+}
+
+.success {
+    margin-top: 10px;
+    margin-left: 100px;
+    width: 88px;
+    height: 33px;
+    text-align: left;
+    font: normal normal normal 24px/34px Open Sans;
+    letter-spacing: 0.12px;
+    color: #FFFFFF99;
+    opacity: 1;
+}
+
+.rect1 {
+    display: flex;
+}
+
+.k1001 {
+    display: flex;
+}
+/************************** section 1 end **************************/
+
+.we-help {
+    padding-top: 223px;
+    margin-left: 180px;
+    width: 751px;
+    height: 73px;
+    text-align: center;
+
+    font: normal normal bold 48px/68px Titillium Web;
+    letter-spacing: 0.24px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.logo4 {
+    margin-top: 118px;
+    margin-left: 0px;
+    width: 220px;
+    height: 49px;
+    /* background: transparent url('img/Logo4.png') 0% 0% no-repeat padding-box; */
+    opacity: 1;
+}
+
+.logo3 {
+    margin-top: 118px;
+    margin-left: 100px;
+    width: 170px;
+    height: 82px;
+    opacity: 1;
+}
+
+.logo2 {
+    margin-top: 118px;
+    margin-left: 100px;
+    width: 200px;
+    height: 57px;
+    opacity: 1;
+}
+
+.logo1 {
+    margin-top: 118px;
+    margin-left: 100px;
+    width: 200px;
+    height: 46px;
+    opacity: 1;
+}
+
+.logo5 {
+    margin-top: 78px;
+    margin-left: 145px;
+    margin-bottom: 116px;
+    width: 223px;
+    height: 51px;
+    opacity: 1;
+
+}
+
+.logo6 {
+    margin-top: 78px;
+    margin-left: 116px;
+    margin-bottom: 116px;
+    width: 233px;
+    height: 46px;
+    opacity: 1;
+}
+
+.logo7 {
+    margin-top: 78px;
+    margin-bottom: 116px;
+    margin-left: 117px;
+    width: 179px;
+    height: 42px;
+    opacity: 1;
+}
+
+
+
+
+.cyber {
+    padding-top: 35px;
+    margin-left: 280px;
+    width: 570px;
+    height: 73px;
+    text-align: center;
+    font: normal normal bold 48px/64px Titillium Web;
+    letter-spacing: 0.24px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.lorem2 {
+    margin-top: 28px;
+    margin-left: 270px;
+    width: 604px;
+    height: 58px;
+    text-align: center;
+    font: normal normal normal 18px/34px Open Sans;
+    letter-spacing: 0.09px;
+    color: #FFFFFF99;
+}
+
+/************************************ section end 2 ***********************/
+
+.cloud1 {
+    margin-top: 80px;
+    margin-left: 15px;
+    width: 400px;
+    height: 437px;
+    background: #001C3F 0% 0% no-repeat padding-box;
+    border: 2px solid #3EAFFF;
+    border-radius: 20px;
+    opacity: 1;
+}
+.cloud2 {
+    margin-top: 80px;
+    margin-left: 15px;
+    width: 400px;
+    height: 437px;
+    background: #001C3F 0% 0% no-repeat padding-box;
+    border: 0.2px solid #001C3F ;
+    border-radius: 20px;
+    opacity: 1;
+}
+
+.cloud {
+    margin: 47px;
+    width: 107px;
+    height: 107px;
+    border-radius: 10px;
+    opacity: 1;
+}
+
+.cloud img {
+    padding: 28px;
+    background-color: transparent;
+}
+
+.storage {
+    margin-top: 38px;
+    margin-left: 40px;
+    width: 250px;
+    height: 36px;
+    text-align: left;
+    font: normal normal bold 24px/38px Titillium Web;
+    letter-spacing: 0.12px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    background-color: transparent;
+    opacity: 1;
+}
+
+.morbi {
+    margin-top: 18px;
+    margin-left: 40px;
+    width: 319px;
+    background-color: transparent;
+    height: 58px;
+    text-align: left;
+    font: normal normal normal 18px/34px Open Sans;
+    letter-spacing: 0.09px;
+    color: #FFFFFF99;
+    opacity: 1;
+}
+
+.learn1 {
+    margin-top: 40px;
+    margin-left: 40px;
+    color: white;
+    width: 129px;
+    height: 43px;
+    background: #3EAFFF 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    opacity: 1;
+}
+.learn2{
+    margin-top: 40px;
+    margin-left: 40px;
+    color:#3EAFFF;
+    width: 129px;
+    height: 43px;
+    background: transparent;
+    border-radius: 5px;
+    border:1px solid #3EAFFF;
+    opacity: 1;
+}
+
+.cloud0 {
+    margin-top: -20px;
+    padding-top: 100px;
+}
+.cloud12{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cloud11{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/****************************** section 3 end ************************/
+
+
+
+
+
+.contact25{
+    display: flex;
+    justify-content:space-between;
+    border-bottom: 2px solid gray;
+    padding-bottom: 78px;
+}
+
+.quick{
+   margin-top: 199px;
+    left: 475px;
+    width: 200px;
+    height: 43px;
+    text-align: left;
+    font: normal normal bold 28px/52px Titillium Web;
+    letter-spacing: 0.28px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.about1{
+   margin-top: 33px;
+    left: 475px;
+    width: 51px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 18px/24px Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF99;
+    opacity: 1;
+}
+.our1{
+    margin-top: 33px;
+    left: 475px;
+    width: 97px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 18px/24px Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF99;
+    opacity: 1
+}
+.career1{
+    margin-top: 33px;
+    left: 475px;
+    width: 56px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 18px/24px Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF99;
+    opacity: 1;
+}
+.contact1{
+    margin-top: 33px;
+    left: 475px;
+    width: 65px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 18px/24px Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF99;
+    opacity: 1
+}
+.office{
+   margin-top: 199px;
+    left: 719px;
+    width: 150px;
+    height: 43px;
+    text-align: left;
+    font: normal normal bold 28px/52px Titillium Web;
+    letter-spacing: 0.28px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.gray{
+   margin-top: 45px;
+    left: 719px;
+    width: 215px;
+    height: 58px;
+    text-align: left;
+    font: normal normal normal 18px/34px Open Sans;
+    letter-spacing: 0.09px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.cont{
+   margin-top: 33px;
+    left: 719px;
+    width: 226px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 18px/34px Open Sans;
+    letter-spacing: 0.09px;
+    color: #FFFFFF99;
+    opacity: 1;
+}
+.cont1{
+    margin-top: 33px;
+    left: 719px;
+    width: 226px;
+    height: 24px;
+    text-align: left;
+    font: normal normal normal 18px/34px Open Sans;
+    letter-spacing: 0.09px;
+    color: #FFFFFF99;
+    opacity: 1;
+}
+.subscribe1{
+   margin-top: 199px;
+    left: 1040px;
+    width: 121px;
+    height: 43px;
+    text-align: left;
+    font: normal normal bold 28px/52px Titillium Web;
+    letter-spacing: 0.28px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.lorem2{
+    top: 7936px;
+    margin-left: 0px;
+    width: 269px;
+    height: 58px;
+    text-align: left;
+    font: normal normal normal 18px/34px Open Sans;
+    letter-spacing: 0.09px;
+    color: #FFFFFF99;
+    opacity: 1;
+}
+.email{
+   margin-top: 40px;
+    left: 1040px;
+    width: 286px;
+    height: 50px;
+    background: #092548 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF33;
+    border-radius: 5px;
+    opacity: 1;
+}
+.now2{
+    margin-top: 30px;
+    left: 1040px;
+    width: 286px;
+    height: 43px;
+    background: #3EAFFF 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+.copyr{
+    padding-top: 30px; 
+    margin-left: 107px;
+    width: 256px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/36px Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF99;
+    opacity: 1;
+}
+.privacy{
+   margin-top: 30px;
+   margin-left: 500px;
+    width: 94px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/36px Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF99;
+    opacity: 1;
+}
+.cookie{
+   margin-top: 30px;
+   margin-left: 40px;
+    width: 92px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/36px Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF99;
+    opacity: 1;
+}
+.term{
+   margin-top: 30px;
+   margin-left: 40px;
+   color: white;
+    width: 112px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 15px/36px Open Sans;
+    letter-spacing: 0px;
+    opacity: 1;
+}
